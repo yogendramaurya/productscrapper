@@ -1,0 +1,5 @@
+AuthUserFile /home/dubaityr/public_html/scraper/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Secure Document"
+AuthType Basic
+require user admin
